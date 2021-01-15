@@ -1,5 +1,5 @@
 # Facial landmarks with dlib, OpenCV, and PythonPython
-
+# python landmark-facial.py --shape-predictor shape_predictor_68_face_landmarks.dat --image face.jpg
 # import the necessary packages
 from imutils import face_utils
 import numpy as np
